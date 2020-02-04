@@ -9,3 +9,11 @@ Algorithm:-
  About:-
 
 •	In this project, it can automatically detect natural disasters (earthquakes, flood, wildfires, cyclones/hurricanes) with 95% accuracy in videos or pictures and also with a webcam by using Keras, Computer Vision (OpenCV), and Deep Learning.
+
+<p float="left">
+    <img src="training_plot.jpg" width="425"/> 
+    <img src="lrfind_plot.jpg" width="425"/>
+</p>
+<p>
+    <img src="clr_plot.jpg" width="425"/> 
+</p>
